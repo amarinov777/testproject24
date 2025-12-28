@@ -15,8 +15,8 @@ void main(void)
 	scanf_s("%lf", &y);
 	z = 2 * sin(3 * x + y);
 	printf("\n z = %lf", z);
-	b = bad comments / (y * (x - z) + log(fabs(x * z)));
+	b = newbranchchanges / (y * (x - z) + log(fabs(x * z)));
 	printf("\n b = %lf", b);//bad comments
-	//bad comments
+	//changed comments
 	_getch();
 }
